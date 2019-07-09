@@ -46,49 +46,31 @@ career-profile:
       I am interested in solving problems of classification, segmentation and localization in 2D/3D medical images based on computer vision and neural network methods.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Phd in Medical Science
+      university: Yonsei University
+      time: 2014 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        - Medical Image Computing & Analysis Lab. of Prof. Chang, Hyuk-Jae
+        - Co-advised by Prof. Chang, Hyuk-Jae, and Prof. Shim, Hackjoon
+        - Application of computer vision techniques, such as, Bayesian estimation, geometric analysis, neural network to localization and segmentation tasks in medical images
+        - Dissertation: Fully Automatic Extraction of Coronary Arteries based on Analysis of Geometric Relations by Bayesian Inference from 3D CT Images
 
-          - Bullet point
-          - Bullet point
+    - degree: BSc in Computer Science & Engineering
+      university: Hankuk University of Foreign Studies
+      time: 2009 - 2013
+      #details: |
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Assistant @ Medical Image Computing & Analysis Lab.
+      time: 2012 - Present
+      company: Severance Hospital, Yonsei University Health System
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        - (Sep. 2012 – Feb. 2014) Development of 2D/3D visualization platform for medical image processing 
+        - (Mar. 2014 – Current) Fully automatic coronary artery identification and tracking from 3D CT images by Bayesian estimation and geometric analysis. 
+        - (Mar. 2015 – Current) Development of image-based Simulation framework for left atrial appendage intervention. 
+        - (Mar. 2018 – Current) Coronary artery segmentation from 2D X-ray images by neural network methods
 
-          - Bullet point
-          - Bullet point
 
     - role: Senior Software Engineer
       time: 2014 - 2015
