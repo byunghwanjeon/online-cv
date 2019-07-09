@@ -67,36 +67,9 @@ experiences:
       company: Severance Hospital, Yonsei University Health System
       details: |
         - (Sep. 2012 – Feb. 2014) Development of 2D/3D visualization platform for medical image processing 
-        - (Mar. 2014 – Current) Fully automatic coronary artery identification and tracking from 3D CT images by Bayesian estimation and geometric analysis. 
-        - (Mar. 2015 – Current) Development of image-based Simulation framework for left atrial appendage intervention. 
-        - (Mar. 2018 – Current) Coronary artery segmentation from 2D X-ray images by neural network methods
-
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - (Mar. 2014 – Present) Fully automatic coronary artery identification and tracking from 3D CT images by Bayesian estimation and geometric analysis. 
+        - (Mar. 2015 – Present) Development of image-based Simulation framework for left atrial appendage intervention. 
+        - (Mar. 2018 – Present) Coronary artery segmentation from 2D X-ray images by neural network methods
 
 projects:
     title: Projects
@@ -106,25 +79,25 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Intelligent SW Technology Development for Medical Data Analysis
+        company: National IT Industry Promotion Agency (NIPA)
+        time: 2018 - Present
+        tagline: "Image Processing on X-ray Angiography"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Development of Multi-modality Imaging and 3D Simulation-Based Integrative Diagnosis-Treatment Support Software System for Cardiovascular Diseases
+        company: National IT Industry Promotion Agency (NIPA)
+        time: 2013 - 2017
+        tagline: "Automatic Coronary Artery Segmentation, Automatic Cardiac Localization and Re- gistration in 3D CT images"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Leading Foreign Research Institute Recruitment Program
+        company: National Research Foundation of Korea(NRF)
+        time: 2012 - 2018
+        tagline: "Development of a Platform for 3D Image Processing, Multiple Object Detection and Segmentation in 3D CT images, and investigation of surrogate marker"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Junior Integrative Research
+        company: Institute of Convergence Science, Yonsei University
+        time: 2017 - 2018
+        tagline: "Left Atrial Appendage Localization, Segmentation and Clinical Analysis of LAA Geo- metry, 3D mesh modeling for 3D printing"
 
 publications:
     title: Publications
