@@ -61,7 +61,8 @@ education:
 
 
 experiences:
-    - role: Assistant Professor @ Department of Computer Science (AI-software major), Kyungil University
+    - role: Assistant Professor @ Department of Computer Science
+(AI-software major), Kyungil University
       time: 2020.03 - Present
       details: |
         - (Mar. 2020 – Present) reinforcement learning 
