@@ -29,7 +29,6 @@ sidebar:
       - idiom: English
         level: Moderate
 
-
     interests:
       - item: Medical Imaging
         link:
@@ -39,8 +38,7 @@ sidebar:
 
       - item: Pattern Recognition
         link:
-        
-
+      
 career-profile:
     title: Career Profile
     summary: |
@@ -105,8 +103,7 @@ projects:
 publications:
     title: Publications
     intro: |
-
-    journalpapers:
+    journal papers:
       - title: Diagnostic Accuracy of a Novel On-site Virtual Fractional Flow Reserve Parallel Computing System (2020)
         authors: Hyung-Bok Park, Yeonggul Jang, Reza Arsanjani, Minh Tuan Nguyen, Sang-Eun Lee, Byunghwan Jeon, Sunghee Jung, Youngtaek Hong, Seongmin Ha, Sekeun Kim, Sang-Wook Lee, Hyuk-Jae Chang
         journal: Yonsei Medical Journal 61 (2), 137-144
@@ -175,7 +172,7 @@ publications:
         authors: Yeonggul Jang, Byunghwan Jeon, Yoojin Chung
         journal: Computer Applications for Bio-technology, Multimedia, and Ubiquitous City, 9-15
         
-    conferencepapers:
+    conference papers:
       - title: Deep Recursive Bayesian Maximal Path for Fully Automatic Extraction of Coronary Arteries in CT Images (2019)
         authors: Byunghwan Jeon, Sunghee Jung, Hackjoon Shim, Hyuk-Jae Chang
         journal: Med-NeurIPS, workshop at NeurIPS 2019
