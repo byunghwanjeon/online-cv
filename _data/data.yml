@@ -62,9 +62,14 @@ education:
 
 
 experiences:
+    - role: Assistant Professor @ Department of Computer Science (AI-software major), Kyungil University
+      time: 2020.03 - Present
+      details: |
+        - (Mar. 2020 – Present) reinforcement learning 
+
     - role: Research Assistant @ Medical Image Computing & Analysis Lab.
       time: 2012 - 2020.02
-      company: CONNECT-AI Research Center, Yonsei University College of Medicine
+      institution: CONNECT-AI Research Center, Yonsei University College of Medicine
       details: |
         - (Sep. 2012 – Feb. 2014) Development of 2D/3D visualization platform for medical image processing 
         - (Mar. 2014 – Present) Fully automatic coronary artery identification and tracking from 3D CT images by Bayesian estimation and geometric analysis. 
@@ -106,40 +111,112 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    journal papers:
+      - title: Diagnostic Accuracy of a Novel On-site Virtual Fractional Flow Reserve Parallel Computing System (2020)
+        authors: Hyung-Bok Park, Yeonggul Jang, Reza Arsanjani, Minh Tuan Nguyen, Sang-Eun Lee, Byunghwan Jeon, Sunghee Jung, Youngtaek Hong, Seongmin Ha, Sekeun Kim, Sang-Wook Lee, Hyuk-Jae Chang
+        journal: Yonsei Medical Journal 61 (2), 137-144
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Identification of Coronary Arteries in CT Images by Bayesian Analysis of Geometric Relations among Anatomical Landmarks (2019)
+        authors: Byunghwan Jeon, Yeonggul Jang, Hackjoon Shim, Hyuk-Jae Chang
+        journal: Pattern Recognition 96
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Image-Based Flow Simulations of Pre-and Post-left Atrial Appendage Closure in the Left Atrium (2019)
+        authors: Dongjie Jia, Byunghwan Jeon, Hyung-Bok Park, Hyuk-Jae Chang, Lucy T Zhang
+        journal: Cardiovascular Engineering and Technology 10 (2), 225-241
+        
+      - title: Clinical feasibility of catheter-directed selective intracoronary computed tomography angiography using an extremely low dose of iodine in patients with coronary artery disease (2019)
+        authors: Youngtaek Hong, Hyung-Bok Park, Byoung Kwon Lee, Seongmin Ha, Yeonggul Jang, Byunghwan Jeon, Sunghee Jung, Hackjoon Shim, Yang Soo Jang, Hyuk-Jae Chang
+        journal: European radiology 29 (5), 2218-2225
+        
+      - title: Robust Coronary Artery Segmentation in 2D X-ray Images using Local Patch-based Re-connection Methods (2019)
+        authors: Kyunghoon Han, Byunghwan Jeon, Sekeun Kim, Yeonggul Jang, Sunghee Jung, Hackjoon Shim, Hyukjae Chang
+        journal: Journal of Broadcast Engineering 24 (4), 592-601
+        
+      - title: Clinical Utility of a Novel On-site Virtual Fractional Flow Reserve Parallel Computing System: Comparison with Invasive Fractional Flow Reserve (2018)
+        authors: Hyung-Bok Park, Yeonggul Jang, Minh Tuan Nguyen, Byunghwan Jeon, Reza Arsanjani, Sang-Wook Lee, Hyuk-Jae Chang
+        journal: Journal of the American College of Cardiology 72 (13 Supplement), B155
+        
+      - title: Incomplete Left Atrial Appendage Closure Prediction Using Novel Three-Dimensional Computed Tomography Geometric Analysis (2017)
+        authors: Hyung-bok Park, Byunghwan Jeon, Sanghoon Shin, Yoonmi Hong, Hyuk-Jae Chang
+        journal: Circulation 136 (suppl_1), A19704-A19704
+        
+      - title: Maximum a posteriori estimation method for aorta localization and coronary seed identification (2017)
+        authors: Hyung-bok Park, Byunghwan Jeon, Sanghoon Shin, Yoonmi Hong, Hyuk-Jae Chang
+        journal: Pattern Recognition 68, 222-232
+        
+      - title: Novel three-dimensional geometric method using computed tomography for predicting the incomplete occlusion of left atrial appendage closure (2017)
+        authors: Hyung Bok Park, Byunghwan Jeon Byunghwan Jeon, Yoonmi Hong, Hyuk-Jae Chang
+        journal: Journal of the American College of Cardiology 69 (11 Supplement), 1649
+        
+      - title: Automatic coronary artery segmentation using active search for branches and seemingly disconnected vessel segments from coronary CT angiography (2016)
+        authors: Dongjin Han, Hackjoon Shim, Byunghwan Jeon, Yeonggul Jang, Youngtaek Hong, Sunghee Jung, Seongmin Ha, Hyuk-Jae Chang
+        journal: PloS one 11 (8)
+        
+      - title: Generation of Triangular Mesh of Coronary Artery Using Mesh Merging (2016)
+        authors: Yeonggul Jang, Dong Hwan Kim, Byunghwan Jeon, Dongjin Han, Hackjoon Shim, Hyuk-jae Chang
+        journal: Journal of KIISE 43 (4), 419-429
+        
+      - title: Vessel Tracking Algorithm using Multiple Local Smooth Paths (2016)
+        authors: Byunghwan Jeon, Yeonggul Jang, Dongjin Han, Hackjoon Shim, Hyungbok Park, Hyuk-Jae Chang
+        journal: Journal of the Institute of Electronics and Information Engineers 53 (6), 137-145
+        
+      - title: Predicting peri-device leakage of left atrial appendage device closure using novel three-dimensional geometric CT analysis (2015)
+        authors: Hyemoon Chung, Byunghwan Jeon, Hyuk-Jae Chang, Dongjin Han, Hackjoon Shim, In Jeong Cho, Chi Young Shim, Geu-Ru Hong, Jung-Sun Kim, Yangsoo Jang, Namsik Chung
+        journal: Journal of cardiovascular ultrasound 23 (4), 211-218
+        
+      - title: Viability assessment after conventional coronary angiography using a novel cardiovascular interventional therapeutic CT system: Comparison with gross morphology in a subacute infarct swine model (2015)
+        authors: Yeonggul Jang, Iksung Cho, Bríain WÓ Hartaigh, Se-Il Park, Youngtaek Hong, Sanghoon Shin, Seongmin Ha, Byunghwan Jeon, Hoyup Jung, Hackjoon Shim, James K Min, Hyuk-Jae Chang, Yangsoo Jang, Namsik Chung
+        journal: Journal of cardiovascular computed tomography 9 (4), 321-328
+        
+      - title: Feasibility of selective catheter-directed coronary computed tomography angiography using ultralow-dose intracoronary contrast injection in a swine model (2015)
+        authors: Youngtaek Hong, Sanghoon Shin, Hyung-Bok Park, Byoung Kwon Lee, Reza Arsanjani, Bríain ó Hartaigh, Seongmin Ha, Yeonggul Jang, Byunghwan Jeon, Sunghee Jung, Se-Il Park, Ji Min Sung, Hackjoon Shim, Hyuk-Jae Chang
+        journal: Investigative radiology 50 (7), 449-455
+        
+      - title: A fast seed detection using local geometrical feature for automatic tracking of coronary arteries in CTA (2014)
+        authors: Dongjin Han, Nam-Thai Doan, Hackjoon Shim, Byunghwan Jeon, Hyunna Lee, Youngtaek Hong, Hyuk-Jae Chang
+        journal: Computer methods and programs in biomedicine 117 (2), 179-188
+        
+      - title: Core-Shell Detection in Images of Polymer Microbeads (2012)
+        authors: Yeonggul Jang, Byunghwan Jeon, Yoojin Chung
+        journal: Computer Applications for Bio-technology, Multimedia, and Ubiquitous City, 9-15
+        
+    conference papers:
+      - title: Deep Recursive Bayesian Maximal Path for Fully Automatic Extraction of Coronary Arteries in CT Images (2019)
+        authors: Byunghwan Jeon, Sunghee Jung, Hackjoon Shim, Hyuk-Jae Chang
+        journal: Med-NeurIPS, workshop at NeurIPS 2019
+        
+      - title: Deep learning based coronary artery motion artifact compensation using style-transfer synthesis in CT images (2018)
+        authors: Sunghee Jung, Soochahn Lee, Byunghwan Jeon, Yeonggul Jang, Hyuk-Jae Chang
+        journal: International Workshop on Simulation and Synthesis in Medical Imaging, 100-110
 
+      - title: Fully automatic segmentation of coronary arteries based on deep neural network in intravascular ultrasound images (2018)
+        authors: Sekeun Kim, Yeonggul Jang, Byunghwan Jeon, Youngtaek Hong, Hackjoon Shim, Hyukjae Chang
+        journal: Intravascular Imaging and Computer Assisted Stenting and Large-Scale Annotation of Biomedical Data and Expert Label Synthesis, 161-168
+        
+      - title: 기하학관계 분석을 통한 X-ray/CT 영상 기반 혈관 조각 병합기법 (2018)
+        authors: 한경훈，전병환，홍영택，심학준，장혁재
+        journal: 대한전자공학회 학술대회, 617-620
+        
+      - title: 관상동맥 검출을 위한 베이지안 접근방법 (2018)
+        authors: 전병환，정성희，하성민，심학준, 장혁재
+        journal: 대한전자공학회 학술대회, 455-456
+        
+      - title: Coronary luminal and wall mask prediction using convolutional neural network (2017)
+        authors: Youngtaek Hong, YM Hong, Yeonggul Jang, Sekeun Kim, Byunghwan Jeon, Sunghee Jung, Seongmin Ha, Dongjin Han, Hackjoon Shim, Hyuk-Jae Chang
+        journal: 2017 IEEE 14th International Symposium on Biomedical Imaging (ISBI 2017), 1049-1052
+        
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: c++, c
+        level: 98%
+        
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Java
         level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
