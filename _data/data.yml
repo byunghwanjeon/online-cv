@@ -103,8 +103,10 @@ projects:
 publications:
     title: Publications
     intro: |
+    
     journal papers:
       - title: Diagnostic Accuracy of a Novel On-site Virtual Fractional Flow Reserve Parallel Computing System (2020)
+        link: "#"
         authors: Hyung-Bok Park, Yeonggul Jang, Reza Arsanjani, Minh Tuan Nguyen, Sang-Eun Lee, Byunghwan Jeon, Sunghee Jung, Youngtaek Hong, Seongmin Ha, Sekeun Kim, Sang-Wook Lee, Hyuk-Jae Chang
         journal: Yonsei Medical Journal 61 (2), 137-144
 
