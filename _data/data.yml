@@ -9,10 +9,10 @@ sidebar:
     # Profile information
     name: Byunghwan Jeon
     tagline: Ph.D.
-    avatar: jbh.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: jbh2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: byunghwanjeon@yonsei.ac.kr
+    email: bhjeon@kiu.kr
     phone: +82-10-8439-3834
     website: icirc.yonsei.ac.kr #do not add http://
     linkedin: byunghwan-jeon-8a461870
@@ -63,8 +63,8 @@ education:
 
 experiences:
     - role: Research Assistant @ Medical Image Computing & Analysis Lab.
-      time: 2012 - Present
-      company: Severance Hospital, Yonsei University Health System
+      time: 2012 - 2020.02
+      company: CONNECT-AI Research Center, Yonsei University College of Medicine
       details: |
         - (Sep. 2012 – Feb. 2014) Development of 2D/3D visualization platform for medical image processing 
         - (Mar. 2014 – Present) Fully automatic coronary artery identification and tracking from 3D CT images by Bayesian estimation and geometric analysis. 
