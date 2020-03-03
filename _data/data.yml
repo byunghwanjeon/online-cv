@@ -106,7 +106,7 @@ publications:
     title: Publications
     intro: |
 
-    journal papers:
+    journalpapers:
       - title: Diagnostic Accuracy of a Novel On-site Virtual Fractional Flow Reserve Parallel Computing System (2020)
         authors: Hyung-Bok Park, Yeonggul Jang, Reza Arsanjani, Minh Tuan Nguyen, Sang-Eun Lee, Byunghwan Jeon, Sunghee Jung, Youngtaek Hong, Seongmin Ha, Sekeun Kim, Sang-Wook Lee, Hyuk-Jae Chang
         journal: Yonsei Medical Journal 61 (2), 137-144
@@ -175,7 +175,30 @@ publications:
         authors: Yeonggul Jang, Byunghwan Jeon, Yoojin Chung
         journal: Computer Applications for Bio-technology, Multimedia, and Ubiquitous City, 9-15
         
+    conferencepapers:
+      - title: Deep Recursive Bayesian Maximal Path for Fully Automatic Extraction of Coronary Arteries in CT Images (2019)
+        authors: Byunghwan Jeon, Sunghee Jung, Hackjoon Shim, Hyuk-Jae Chang
+        journal: Med-NeurIPS, workshop at NeurIPS 2019
+        
+      - title: Deep learning based coronary artery motion artifact compensation using style-transfer synthesis in CT images (2018)
+        authors: Sunghee Jung, Soochahn Lee, Byunghwan Jeon, Yeonggul Jang, Hyuk-Jae Chang
+        journal: International Workshop on Simulation and Synthesis in Medical Imaging, 100-110
 
+      - title: Fully automatic segmentation of coronary arteries based on deep neural network in intravascular ultrasound images (2018)
+        authors: Sekeun Kim, Yeonggul Jang, Byunghwan Jeon, Youngtaek Hong, Hackjoon Shim, Hyukjae Chang
+        journal: Intravascular Imaging and Computer Assisted Stenting and Large-Scale Annotation of Biomedical Data and Expert Label Synthesis, 161-168
+        
+      - title: Merging method of vessel segments in X-ray/CT images using analysis of geometric relation (2018)
+        authors: Kyunghoon Han, Byunghwan Jeon, Youngtaek Hong, Hackjoon Shim, Hyuk-Jae Chang
+        journal: IEIE Conference, 617-620
+        
+      - title: A Bayesian Approach to Identification of Coronary Artery (2018)
+        authors: Byunghwan Jeon, Sunghee Jung, Seongmin Ha, Hackjoon Shim, Hyuk-Jae Chang
+        journal: IEIE Conference, 455-456
+        
+      - title: Coronary luminal and wall mask prediction using convolutional neural network (2017)
+        authors: Youngtaek Hong, YM Hong, Yeonggul Jang, Sekeun Kim, Byunghwan Jeon, Sunghee Jung, Seongmin Ha, Dongjin Han, Hackjoon Shim, Hyuk-Jae Chang
+        journal: 2017 IEEE 14th International Symposium on Biomedical Imaging (ISBI 2017), 1049-1052
         
 skills:
     title: Skills &amp; Proficiency
