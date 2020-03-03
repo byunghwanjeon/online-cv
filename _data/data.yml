@@ -105,21 +105,20 @@ publications:
     title: Publications
     intro: |
     
-    papers:
-      - title: The Art of Computer Programming
+    journal papers:
+      - title: Diagnostic Accuracy of a Novel On-site Virtual Fractional Flow Reserve Parallel Computing System (2020)
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Hyung-Bok Park, Yeonggul Jang, Reza Arsanjani, Minh Tuan Nguyen, Sang-Eun Lee, Byunghwan Jeon, Sunghee Jung, Youngtaek Hong, Seongmin Ha, Sekeun Kim, Sang-Wook Lee, Hyuk-Jae Chang
+        journal: Yonsei Medical Journal 61 (2), 137-144
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Identification of Coronary Arteries in CT Images by Bayesian Analysis of Geometric Relations among Anatomical Landmarks (2019)
+        authors: Byunghwan Jeon, Yeonggul Jang, Hackjoon Shim, Hyuk-Jae Chang
+        journal: Pattern Recognition 96
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Image-Based Flow Simulations of Pre-and Post-left Atrial Appendage Closure in the Left Atrium (2019)
+        authors: Dongjie Jia, Byunghwan Jeon, Hyung-Bok Park, Hyuk-Jae Chang, Lucy T Zhang
+        journal: Cardiovascular Engineering and Technology 10 (2), 225-241
+
         
 skills:
     title: Skills &amp; Proficiency
