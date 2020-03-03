@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: bhjeon@kiu.kr
     phone: +82-10-8439-3834
-    address: Room# 06-414-1, 1st Engineering Bld., 50 Gamasilgil (Kyungil Univ.), Hayangup, Gyeongsan city, Gyeongbuk, South Korea (zip:38428)
+    address: Room# 06-414-1, 1st Engineering Bld., 50 Gamasilgil (Kyungil Univ.), Hayangup, Gyeongsan city, Gyeongbuk, South Korea (zip 38428)
     website: #do not add http://
     linkedin: byunghwan-jeon-8a461870
     github: byunghwanjeon
@@ -62,7 +62,7 @@ education:
 
 experiences:
     - role: Assistant Professor @ Department of Computer Science
-(AI-software major), Kyungil University
+    (AI-software major), Kyungil University
       time: 2020.03 - Present
       details: |
         - (Mar. 2020 – Present) reinforcement learning 
