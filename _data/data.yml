@@ -194,13 +194,13 @@ publications:
         authors: Sekeun Kim, Yeonggul Jang, Byunghwan Jeon, Youngtaek Hong, Hackjoon Shim, Hyukjae Chang
         journal: Intravascular Imaging and Computer Assisted Stenting and Large-Scale Annotation of Biomedical Data and Expert Label Synthesis, 161-168
         
-      - title: 기하학관계 분석을 통한 X-ray/CT 영상 기반 혈관 조각 병합기법 (2018)
-        authors: 한경훈，전병환，홍영택，심학준，장혁재
-        journal: 대한전자공학회 학술대회, 617-620
+      - title: Merging method of vessel segments in X-ray/CT images using analysis of geometric relation (2018)
+        authors: Kyunghoon Han, Byunghwan Jeon, Youngtaek Hong, Hackjoon Shim, Hyuk-Jae Chang
+        journal: IEIE Conference, 617-620
         
-      - title: 관상동맥 검출을 위한 베이지안 접근방법 (2018)
-        authors: 전병환，정성희，하성민，심학준, 장혁재
-        journal: 대한전자공학회 학술대회, 455-456
+      - title: A Bayesian Approach to Identification of Coronary Artery (2018)
+        authors: Byunghwan Jeon, Sunghee Jung, Seongmin Ha, Hackjoon Shim, Hyuk-Jae Chang
+        journal: IEIE Conference, 455-456
         
       - title: Coronary luminal and wall mask prediction using convolutional neural network (2017)
         authors: Youngtaek Hong, YM Hong, Yeonggul Jang, Sekeun Kim, Byunghwan Jeon, Sunghee Jung, Seongmin Ha, Dongjin Han, Hackjoon Shim, Hyuk-Jae Chang
